@@ -1,0 +1,5 @@
+/home/piotr/projects/diary/build/CMakeFiles/Diary.dir
+/home/piotr/projects/diary/build/CMakeFiles/edit_cache.dir
+/home/piotr/projects/diary/build/CMakeFiles/rebuild_cache.dir
+/home/piotr/projects/diary/build/CMakeFiles/Diary_autogen_timestamp_deps.dir
+/home/piotr/projects/diary/build/CMakeFiles/Diary_autogen.dir

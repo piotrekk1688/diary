@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/piotr/projects/diary/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/piotr/projects/diary/build/Diary_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -fPIC -o CMakeFiles/Diary.dir/Diary_autogen/mocs_compilation.cpp.o -c /home/piotr/projects/diary/build/Diary_autogen/mocs_compilation.cpp",
+  "file": "/home/piotr/projects/diary/build/Diary_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/Diary.dir/Diary_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/piotr/projects/diary/build",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/home/piotr/projects/diary/build/Diary_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -fPIC -o CMakeFiles/Diary.dir/main.cpp.o -c /home/piotr/projects/diary/main.cpp",
+  "file": "/home/piotr/projects/diary/main.cpp",
+  "output": "CMakeFiles/Diary.dir/main.cpp.o"
+}
+]

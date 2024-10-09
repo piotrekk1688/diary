@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Diary.dir/Diary_autogen/mocs_compilation.cpp.o CMakeFiles/Diary.dir/main.cpp.o -o Diary  /usr/lib/libQt5Widgets.so.5.15.15 /usr/lib/libQt5Gui.so.5.15.15 /usr/lib/libQt5Core.so.5.15.15

@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+6a45ab6b92e3bfd1158b7a49802abcc5 CMakeFiles/Diary_autogen
+8b7facfbd8b1e5518c769167446de438 Diary_autogen/timestamp
